@@ -1,3 +1,5 @@
+Hello! This is an application sharing common phrases and their translations between Haitian Creole and English 🙃
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
